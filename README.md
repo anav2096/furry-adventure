@@ -4,4 +4,4 @@ This application provides a back end resource for e-commerce material tracking a
 
 See a walkthrouh video here:
 
-[Walkthrough](<iframe src="https://drive.google.com/file/d/1iJIS0HoObJD6jHLYiWua1xx8ZBsNKCww/preview" width="640" height="480"></iframe>    "e-commerce backend")
+[Walkthrough]<iframe src="https://drive.google.com/file/d/1iJIS0HoObJD6jHLYiWua1xx8ZBsNKCww/preview" width="640" height="480"></iframe>
