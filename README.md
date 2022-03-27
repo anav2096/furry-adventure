@@ -4,4 +4,4 @@ This application provides a back end resource for e-commerce material tracking a
 
 See a walkthrouh video here:
 
-[Walkthrough]("https://drive.google.com/file/d/1iJIS0HoObJD6jHLYiWua1xx8ZBsNKCww/preview")
+[Walkthrough](https://drive.google.com/file/d/1iJIS0HoObJD6jHLYiWua1xx8ZBsNKCww/preview)git
